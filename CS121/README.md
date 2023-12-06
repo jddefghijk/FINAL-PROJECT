@@ -33,6 +33,7 @@ Game Features:
 
 
 ~ Developers:
+
     BSIT - 2101
     MONTIALTO,Jedd Iris B.        (22-06742)
     GUALBERTO, Steavencarl        (22-03674)
