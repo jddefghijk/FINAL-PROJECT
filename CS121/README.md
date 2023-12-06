@@ -22,6 +22,13 @@ Game Features:
     🌈 Colorful Visuals:
     Experience the simple and adventurous world of Pyventure with stunning and colorful visuals that bring educational stuff in regard of Python programming. The combination of vibrant landscapes and dynamic animations creates an immersive gaming experience.
 
+![screenshot_1](https://github.com/jddefghijk/FINAL-PROJECT/blob/main/CS121/screenshots/1.PNG)
+![screenshot_2](https://github.com/jddefghijk/FINAL-PROJECT/blob/main/CS121/screenshots/2.PNG)
+![screenshot_3](https://github.com/jddefghijk/FINAL-PROJECT/blob/main/CS121/screenshots/3.PNG)
+![screenshot_4](https://github.com/jddefghijk/FINAL-PROJECT/blob/main/CS121/screenshots/4.PNG)
+![screenshot_5](https://github.com/jddefghijk/FINAL-PROJECT/blob/main/CS121/screenshots/5.PNG)
+![screenshot_6](https://github.com/jddefghijk/FINAL-PROJECT/blob/main/CS121/screenshots/6.PNG)
+![screenshot_7](https://github.com/jddefghijk/FINAL-PROJECT/blob/main/CS121/screenshots/7.PNG)
 
 ~ SDG Relation:
 
@@ -40,4 +47,4 @@ Game Features:
     NUAS, Angelika Ynez A.        (22-05651)
     OTARES, Francheska Anneth O.  (22-06386)
 
-![screenshots](image.png)
+
