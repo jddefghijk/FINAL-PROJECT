@@ -34,9 +34,9 @@ Game Features:
 
 Developers:
     BSIT - 2101
-    MONTIALTO,Jedd Iris B.          [22-06742]
-    GUALBERTO, Steavencarl          [22-03674]
-    NUAS, ANGELIKA YNEZ A.          [22-05651]
-    OTARES, Francheska Anneth O.    [22-06386]
+    MONTIALTO,Jedd Iris B.          (22-06742)
+    GUALBERTO, Steavencarl          (22-03674)
+    NUAS, Angelika Ynez A.          (22-05651)
+    OTARES, Francheska Anneth O.    (22-06386)
 
 ![screenshots](image.png)
