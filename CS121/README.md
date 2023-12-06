@@ -32,11 +32,11 @@ Game Features:
     The game's rules and fair gameplay contribute to the idea of a structured and just system, aligning with the goal of promoting peaceful and inclusive societies.
 
 
-Developers:
+~ Developers:
     BSIT - 2101
-    MONTIALTO,Jedd Iris B.          (22-06742)
-    GUALBERTO, Steavencarl          (22-03674)
-    NUAS, Angelika Ynez A.          (22-05651)
-    OTARES, Francheska Anneth O.    (22-06386)
+    MONTIALTO,Jedd Iris B.        (22-06742)
+    GUALBERTO, Steavencarl        (22-03674)
+    NUAS, Angelika Ynez A.        (22-05651)
+    OTARES, Francheska Anneth O.  (22-06386)
 
 ![screenshots](image.png)
