@@ -42,9 +42,9 @@ Game Features:
 ~ Developers:
 
     BSIT - 2101
-    MONTIALTO,Jedd Iris B.        (22-06742)
-    GUALBERTO, Steavencarl        (22-03674)
-    NUAS, Angelika Ynez A.        (22-05651)
-    OTARES, Francheska Anneth O.  (22-06386)
+    MONTIALTO,Jedd Iris B.        (22-06742@g.batstate-u.edu.ph)
+    GUALBERTO, Steavencarl        (22-03674@g.batstate-u.edu.ph)
+    NUAS, Angelika Ynez A.        (22-05651@g.batstate-u.edu.ph)
+    OTARES, Francheska Anneth O.  (22-06386@g.batstate-u.edu.ph)
 
 
