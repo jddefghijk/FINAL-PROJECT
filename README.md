@@ -42,6 +42,9 @@ Game Features:
     SDG 16: Peace, Justice, and Strong Institutions
     The game's rules and fair gameplay contribute to the idea of a structured and just system, aligning with the goal of promoting peaceful and inclusive societies.
 
+~ Final Project Video Presentation
+
+    GDRIVE LINK : https://drive.google.com/drive/folders/1w-sj7hj3UB0y8TWSG7UBFqmy40XtvKlt?usp=sharing
 
 ~ Developers:
 
