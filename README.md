@@ -50,3 +50,24 @@ Game Features:
     GUALBERTO, Steavencarl        (22-03674@g.batstate-u.edu.ph)
     NUAS, Angelika Ynez A.        (22-05651@g.batstate-u.edu.ph)
     OTARES, Francheska Anneth O.  (22-06386@g.batstate-u.edu.ph)
+
+~ Break of Contribution
+
+    BSIT - 2101
+    MONTIALTO,Jedd Iris B.        Programmer, Debugger, ReadMe Documentation, Video Presentation - (40%)
+    GUALBERTO, Steavencarl        Programmer, Video Presentation - (20%)
+    NUAS, Angelika Ynez A.        Programmer, Video Presentation - (20%)
+    OTARES, Francheska Anneth O.  Programmer, Video Presentation - (20%)
+    
+~ Self- Assessment
+
+The PyVenture team has evaluated its own project using a number of different standards. The ratings for the criterion are as follows:
+
+    Code Reusability: 4
+    Maintainability: 4
+    Scalability: 4
+    Execution: 4
+    Originality: 4
+    Overall Impression: 4
+
+These scores represent our evaluation of the project's effectiveness in particular areas. We appreciate your recommendations for potential future enhancements as we are dedicated to continuous improvement.
